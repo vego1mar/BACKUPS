@@ -1,4 +1,2 @@
-# ASD2
-
-An academic code for some algorithms.
-
+# PRT_STR
+'Printing strings' application in Java Swing.
