@@ -1,0 +1,12 @@
+﻿Build started 2016-03-21 23  :  24.
+     1>Project "Y:\PZ1\Programowanie zaawansowane I\Programowanie zaawansowane I\Programowanie zaawansowane I.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Programowanie zaawansowane I.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Programowanie zaawansowane I.unsuccessfulbuild".
+         Touching "Debug\Programowanie zaawansowane I.lastbuildstate".
+     1>Done Building Project "Y:\PZ1\Programowanie zaawansowane I\Programowanie zaawansowane I\Programowanie zaawansowane I.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

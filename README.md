@@ -1,4 +1,4 @@
-# PGK
+# PZ1
 
-A kind-of-a graphic demo with simple .obj file parsing.
+An academic code for some classes design.
 
