@@ -1,3 +1,4 @@
-# JZO
+# PGK
 
-The Conway's game of life cellular automata class design.
+A kind-of-a graphic demo with simple .obj file parsing.
+
