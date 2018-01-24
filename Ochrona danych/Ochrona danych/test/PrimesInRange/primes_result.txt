@@ -1,5 +1,0 @@
-Lower limit:                          1000
-Upper limit:                         10000
-Primes in range:                      1061
-
-Program finished after 674165414 nanoseconds.
