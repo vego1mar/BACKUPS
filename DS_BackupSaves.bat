@@ -1,4 +1,6 @@
 @ECHO OFF
+REM This script is designed to use on Windows 10.
+
 SET soulLevel=%1
 SET taskSelector=0
 SET textColor=FC
