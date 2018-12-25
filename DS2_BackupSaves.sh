@@ -1,10 +1,12 @@
 #!/bin/bash
+# This script is designed to use it with Linux shell.
+
 RED_COLOR='\033[0;31m'
 GREEN_COLOR='\033[0;32m'
 NO_COLOR='\033[0m'
 ARCHIVER_EXEC=/usr/bin/7z
-GAMESAVE_DIR=$HOME"/.steam/steam/steamapps/compatdata/335300/pfx/drive_c/users/steamuser/Application Data/DarkSoulsII"
-ARCHIVE_PATH=$HOME"/Archiwum lokalne/Projekty/BACKUPS/Dark_Souls_2_SotFS__AppData_SL${1}.7z"
+GAMESAVE_DIR="/media/moon/26509ADF509AB4D1/Users/Mar/AppData/Roaming/DarkSoulsII"
+ARCHIVE_PATH=$HOME"/Documents/Projekty/BACKUPS/Dark_Souls_2_SotFS__AppData_SL${1}.7z"
 
 if [ ! -f "$ARCHIVER_EXEC" ]; then
   echo -e "${RED_COLOR}Archiver program does not exist within provided path.${NO_COLOR}"
