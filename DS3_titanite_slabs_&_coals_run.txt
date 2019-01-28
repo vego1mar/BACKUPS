@@ -1,52 +1,86 @@
-Titanite slabs, all coals & all bossess run
+All bossess run
+Titanite slabs, coals, scrolls, pyromancy tomes, braille's tomes; Siegward's, Greirat's and Yoel's questlines
 
-(01) Iudex Gundyr
-(02) Dancer of the Frigid Valley
-(03) Oceiros, Consumed King
-(04) Champion Gundyr
-(05) Firelink Shrine, coiled sword fragment, Pickle-Pee Pump-A-Rum (I)
-(06) Dragonslayer Armour
-(07) Vordt of the Boreal Valley
-(08) Undead Settlement, Yoel of Londor
-(09) Great rotten greatwood
-(10) Firelink Shrine, Yoel of Londor, questline
-(11) Undead Settlement, Siegward of Catarina, fire demon
-(12) Road of Sacrifices, Farron coal, black knight
-(13) Crystal Sage
-(14) Cathedral of the Deep, big double blue doors to the cemetary
-(15) Cleansing Chapel, well, amour, location reload
-(16) Deacons of the Deep
-(17) Farron Keep, sage's coal, darkwraith
-(18) Abyss Watchers
-(19) High Lord Wolnir
-(20) Old Demon King
-(21) Irythyll in the Boreal Valley, Siegward of Catarina
-(22) Pontiff Sulyvahn
-(23) Irythyll Dungeon, Siegward of Catarina, key near basilisks
-(24) Profaned Capital, Siegward of Catarina, cell unlock (II)
-(25) Yhorm, the Giant
-(26) Anor Londo, giant's coal
-(27) Aldrich, Devourer of Gods
-(28) Irythyll Dungeon, profaned coal, Way fo the Dragon
-(29) Ancient wywern
-(30) Archdragon Peak, Havel's knight (III)
-(31) King of the Storm & Nameless King (IV)
-(32) Grand Archives, book shelter removing (V)
-(33) Grand Archives, golden winged knights on the rooftop (VI)
-(34) Lothric, younger prince & Lorian, elder prince
-(35) Lothric Castle, elevator in front of the DSA corridor (VII)
-(36) Lord of Cinder
-(37) Firelink Shrine, cinders on thrones, shrine handmaiden (VIII)
-(38) Cleansing Chapel, Painted World of Ariandel
-(39) Painting Depths, woman-tree, ladder (IX)
-(40) Champion gravetender & gravetender greatwolf
-(41) Sister Friede & father Ariandel (X)
-(42) Corvian Settlement, corvian settler (XI)
-(43) Earthen Peak, Lapp, 3x location reloads (XII)
-(44) Demon in Pain & Demon from Below, Demon Prince
-(45) Shared Grave, Midir, bridge
-(46) Darkeater Midir
-(47) The Ringed City, Shira (XIII)
-(48) Halflight, Spear of the Church (XIV)
-(49) Filianore's Rest, ringed knight (XV)
-(50) Slave-knight Gael
+Iudex Gundyr
+Greirat of the Undead Settlement, key and cell unlock
+Dancer of the Frigid Valley
+Oceiros, Consumed King
+Champion Gundyr
+Firelink Shrine, coiled sword fragment, Pickle-Pee Pump-A-Rum (I)
+Lothric Castle, Braille divine tome of Lothric, below the Dragonslayer Armour's courtyard
+Dragonslayer Armour
+Vordt of the Boreal Valley
+Undead Settlement, Yoel of Londor, questline
+Undead Settlement, Loretta's bone, Greirat's questline
+Firelink Shrine, Londor braille divine tome from Yuria of Londor
+Undead Settlement, Irina of Carim
+Undead Settlement, Siegward of Catarina, fire demon
+Undead Settlement, fire demon area, a pale tounge
+Firelink Shrine, chitchat with Leonardt, key to the darkwraith cell
+Great rotten greatwood
+Road of Sacrifices, Braille divine tome of Carim
+Road of Sacrifices, Anri and Horace
+Road of Sacrifices, Farron coal near a black knight
+Crucifixion Woods, Great Swamp pyromancy tome, in the water between a tree and a giant crab
+Crucifixion Woods, Orbeck of Vinheim
+Crystal Sage
+Cleansing Chapel, Painted World of Ariandel
+Cathedral of the Deep, Deep braille divine tome from a mimic chest
+Cathedral of the Deep, big double blue doors to the cementary
+Cathedral of the Deep, Patches questline
+Cathedral of the Deep, Rosaria's chamber
+Cleansing Chapel, Siegward's questline, armour in the well
+Deacons of the Deep
+Firelink Shrine, Anri and Horace
+Farron Keep, stray demon
+Farron Keep, sage's coal, darkwraith
+Farron Keep, sage's scroll and golden scroll
+Firelink Shrine, one scroll for the Orbeck of Vinheim
+Abyss Watchers
+Catacombs of Carthus, Carthus pyromancy tome, behind the illusory wall
+Catacombs of Carthus, Anri's questline, x2
+High Lord Wolnir
+Catacombs of Carthus, Grave warden pyromancy tome, boss area
+Smouldering Lake, Aveline crossbow
+Smouldering Lake, undead Horace
+Smouldering Lake, Quelana pyromancy tome, behind and illusory wall
+Smouldering Lake, Izalith pyromancy tome at the Old King's Antechamber
+Old Demon King
+Irythyll in the Boreal Valley, Church of Yorshka, Anri questline
+Irythyll in the Boreal Valley, Siegward of Catarina, questline
+Pontiff Sulyvahn
+Firelink Shrine, a chitchat with Yuria of Londor
+Irythyll Dungeon, Siegward of Catarina, key near basilisks
+Profaned Capital, Logan's scroll
+Profaned Capital, Siegward of Catarina, cell unlock (II)
+Irythyll Dungeon, Karla cell unlock
+Irythyll Dungeon, profaned coal, Way of the Dragon
+Yhorm, the Giant
+Irythyll in the Boreal Valley, water reservoir, Sulyvahn's beasts
+Irythyll in the Boreal Valley, the ceremony, Yuria's questline
+Anor Londo, giant's coal
+Aldrich, Devourer of Gods
+Ancient wywern
+Archdragon Peak, drop near the Havel knight (III)
+King of the Storm & Nameless King (IV)
+Firelink Shrine, Greirat's questline after opening the Grand Archives
+Grand Archives, crystal scroll
+Grand Archives, behind a book shelter after using a lever (V)
+Grand Archives, Gertrude's winged knights on the rooftop (VI)
+Lothric Castle, down the elevator to the twin princess (VII)
+Lothric, younger prince & Lorian, elder prince
+Firelink Shrine, cinders on thrones, shrine handmaiden (VIII)
+Lord of Cinder
+Painting Depths, woman-tree, ladder (IX)
+Champion gravetender & gravetender greatwolf
+Sister Friede & father Ariandel (X)
+Corvian Settlement, corvian settler (XI)
+Earthen Peak, Lapp, 3x location reloads (XII)
+Demon in Pain & Demon from Below, Demon Prince
+Shared Grave, Midir, bridge
+Darkeater Midir
+The Ringed City, Shira (XIII)
+Halflight, Spear of the Church (XIV)
+Filianore's Rest, Shira if not talked after Midir's fall (XIII)
+Filianore's Rest, ringed knight (XV)
+Slave-knight Gael
