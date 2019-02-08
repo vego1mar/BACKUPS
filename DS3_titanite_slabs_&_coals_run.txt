@@ -7,17 +7,19 @@ Dancer of the Frigid Valley
 Oceiros, Consumed King
 Champion Gundyr
 Firelink Shrine, coiled sword fragment, Pickle-Pee Pump-A-Rum (I)
-Lothric Castle, Braille divine tome of Lothric, below the Dragonslayer Armour's courtyard
+Lothric Castle, Braille divine tome of Lothric, above the Dragonslayer Armour's courtyard
 Dragonslayer Armour
 Vordt of the Boreal Valley
 Undead Settlement, Yoel of Londor, questline (0-2-6-12-15)
 Undead Settlement, Loretta's bone, Greirat's questline
 Firelink Shrine, Londor braille divine tome from Yuria of Londor
 Undead Settlement, Irina of Carim
+Undead Settlement, Cornyx from the Great Swamp
 Undead Settlement, Siegward of Catarina, fire demon
 Undead Settlement, fire demon area, a pale tounge
 Firelink Shrine, chitchat with Leonardt, key to the darkwraith cell
 Great rotten greatwood
+Firelink Shrine, Ludleth of Courland, transposing kiln
 Road of Sacrifices, Braille divine tome of Carim
 Road of Sacrifices, Anri and Horace
 Road of Sacrifices, Farron coal near a black knight
@@ -27,27 +29,30 @@ Crystal Sage
 Cleansing Chapel, Painted World of Ariandel
 Cathedral of the Deep, Deep braille divine tome from a mimic chest
 Cathedral of the Deep, big double blue doors to the cementary
-Cathedral of the Deep, Patches questline
+Cathedral of the Deep, Patches trick
 Cathedral of the Deep, Rosaria's chamber
 Cleansing Chapel, Siegward's questline, armour in the well
 Deacons of the Deep
 Firelink Shrine, Anri and Horace
+Firelink Shrine, Patches trick
 Farron Keep, stray demon
 Farron Keep, sage's coal, darkwraith
 Farron Keep, sage's scroll and golden scroll
 Firelink Shrine, one scroll for the Orbeck of Vinheim
 Abyss Watchers
+Catacombs of Carthus, Anri's questline, x1
 Catacombs of Carthus, Carthus pyromancy tome, behind the illusory wall
 Catacombs of Carthus, Anri's questline, x2
 High Lord Wolnir
 Catacombs of Carthus, Grave warden pyromancy tome, boss area
+Smouldering Lake, Quelana pyromancy tome, behind and illusory wall
 Smouldering Lake, Aveline crossbow
 Smouldering Lake, undead Horace
-Smouldering Lake, Quelana pyromancy tome, behind and illusory wall
 Smouldering Lake, Izalith pyromancy tome at the Old King's Antechamber
 Old Demon King
 Irythyll in the Boreal Valley, Church of Yorshka, Anri questline
 Irythyll in the Boreal Valley, Siegward of Catarina, questline
+Firelink Shrine, sending Greirat for the second outing
 Pontiff Sulyvahn
 Firelink Shrine, a chitchat with Yuria of Londor
 Irythyll Dungeon, Siegward of Catarina, key near basilisks
