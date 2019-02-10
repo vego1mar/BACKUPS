@@ -59,10 +59,12 @@ Irythyll Dungeon, Siegward of Catarina, key near basilisks
 Profaned Capital, Logan's scroll
 Profaned Capital, Siegward of Catarina, cell unlock (II)
 Irythyll Dungeon, Karla cell unlock
-Irythyll Dungeon, profaned coal, Way of the Dragon
+Irythyll Dungeon, profaned coal
+Irythyll Dungeon, Way of the Dragon, bonfire in the Archdragon Peak
 Yhorm, the Giant
 Irythyll in the Boreal Valley, water reservoir, Sulyvahn's beasts
 Irythyll in the Boreal Valley, the ceremony, Yuria's questline
+Irythyll in the Boreal Valley, bonfire in the tower prison
 Anor Londo, giant's coal
 Aldrich, Devourer of Gods
 Ancient wywern
