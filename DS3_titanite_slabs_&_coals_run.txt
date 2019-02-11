@@ -14,7 +14,7 @@ Undead Settlement, Yoel of Londor, questline (0-2-6-12-15)
 Undead Settlement, Loretta's bone, Greirat's questline
 Firelink Shrine, Londor braille divine tome from Yuria of Londor
 Undead Settlement, Irina of Carim
-Undead Settlement, Cornyx from the Great Swamp
+Undead Settlement, Cornyx of the Great Swamp
 Undead Settlement, Siegward of Catarina, fire demon
 Undead Settlement, fire demon area, a pale tounge
 Firelink Shrine, chitchat with Leonardt, key to the darkwraith cell
@@ -84,10 +84,11 @@ Sister Friede & father Ariandel (X)
 Corvian Settlement, corvian settler (XI)
 Earthen Peak, Lapp, 3x location reloads (XII)
 Demon in Pain & Demon from Below, Demon Prince
+The Ringed City, Lapp questline, purging monument
 Shared Grave, Midir, bridge
 Darkeater Midir
 The Ringed City, Shira (XIII)
 Halflight, Spear of the Church (XIV)
-Filianore's Rest, Shira if not talked after Midir's fall (XIII)
 Filianore's Rest, ringed knight (XV)
 Slave-knight Gael
+Dreg Heap, old woman's ashes
