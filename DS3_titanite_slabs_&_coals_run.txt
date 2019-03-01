@@ -10,11 +10,12 @@ Firelink Shrine, coiled sword fragment, Pickle-Pee Pump-A-Rum (I)
 Lothric Castle, Braille divine tome of Lothric, above the Dragonslayer Armour's courtyard
 Dragonslayer Armour
 Vordt of the Boreal Valley
-Undead Settlement, Yoel of Londor, questline (0-2-6-12-15)
 Undead Settlement, Loretta's bone, Greirat's questline
+Undead Settlement, Yoel of Londor, questline (0-2-6-12-15)
 Firelink Shrine, Londor braille divine tome from Yuria of Londor
-Undead Settlement, Irina of Carim
 Undead Settlement, Cornyx of the Great Swamp
+Undead Settlement, Irina of Carim
+Undead Settlement, mortician's ashes
 Undead Settlement, Siegward of Catarina, fire demon
 Undead Settlement, fire demon area, a pale tounge
 Firelink Shrine, chitchat with Leonardt, key to the darkwraith cell
@@ -27,6 +28,7 @@ Crucifixion Woods, Great Swamp pyromancy tome, in the water between a tree and a
 Crucifixion Woods, Orbeck of Vinheim
 Crystal Sage
 Cleansing Chapel, Painted World of Ariandel
+Cathedral of the Deep, paladin's ashes
 Cathedral of the Deep, Deep braille divine tome from a mimic chest
 Cathedral of the Deep, big double blue doors to the cementary
 Cathedral of the Deep, Patches trick
@@ -35,9 +37,10 @@ Cleansing Chapel, Siegward's questline, armour in the well
 Deacons of the Deep
 Firelink Shrine, Anri and Horace
 Firelink Shrine, Patches trick
-Farron Keep, stray demon
 Farron Keep, sage's coal, darkwraith
 Farron Keep, sage's scroll and golden scroll
+Farron Keep, dreamchaser's ashes
+Farron Keep, stray demon
 Firelink Shrine, one scroll for the Orbeck of Vinheim
 Abyss Watchers
 Catacombs of Carthus, Anri's questline, x1
