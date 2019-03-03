@@ -1,5 +1,6 @@
-All bossess run
-Titanite slabs, coals, scrolls, pyromancy tomes, braille's tomes; Siegward's, Greirat's and Yoel's questlines
+All bosses run guide list
+Titanite slabs, coals, scrolls, pyromancy tomes, braille's tomes, ashes; 
+Siegward's, Greirat's and Yoel's questlines
 
 Iudex Gundyr
 Greirat of the Undead Settlement, key and cell unlock
@@ -45,6 +46,7 @@ Firelink Shrine, one scroll for the Orbeck of Vinheim
 Abyss Watchers
 Catacombs of Carthus, Anri's questline, x1
 Catacombs of Carthus, Carthus pyromancy tome, behind the illusory wall
+Catacombs of Carthus, grave warden's ashes
 Catacombs of Carthus, Anri's questline, x2
 High Lord Wolnir
 Catacombs of Carthus, Grave warden pyromancy tome, boss area
@@ -54,6 +56,7 @@ Smouldering Lake, undead Horace
 Smouldering Lake, Izalith pyromancy tome at the Old King's Antechamber
 Old Demon King
 Irythyll in the Boreal Valley, Church of Yorshka, Anri questline
+Irythyll in the Boreal Valley, excrement-covered ashes
 Irythyll in the Boreal Valley, Siegward of Catarina, questline
 Firelink Shrine, sending Greirat for the second outing
 Pontiff Sulyvahn
@@ -61,26 +64,32 @@ Firelink Shrine, a chitchat with Yuria of Londor
 Irythyll Dungeon, Siegward of Catarina, key near basilisks
 Profaned Capital, Logan's scroll
 Profaned Capital, Siegward of Catarina, cell unlock (II)
-Irythyll Dungeon, Karla cell unlock
+Irythyll Dungeon, prisoner chief's ashes
 Irythyll Dungeon, profaned coal
+Irythyll Dungeon, xanthous ashes
+Irythyll Dungeon, Karla cell unlock
 Irythyll Dungeon, Way of the Dragon, bonfire in the Archdragon Peak
 Yhorm, the Giant
 Irythyll in the Boreal Valley, water reservoir, Sulyvahn's beasts
+Irythyll in the Boreal Valley, easterner's ashes
 Irythyll in the Boreal Valley, the ceremony, Yuria's questline
 Irythyll in the Boreal Valley, bonfire in the tower prison
 Anor Londo, giant's coal
 Aldrich, Devourer of Gods
 Ancient wywern
+Archdragon Peak, dragon chaser's ashes
 Archdragon Peak, drop near the Havel knight (III)
 King of the Storm & Nameless King (IV)
 Firelink Shrine, Greirat's questline after opening the Grand Archives
 Grand Archives, crystal scroll
 Grand Archives, behind a book shelter after using a lever (V)
+Grand Archives, Greirat's ashes
 Grand Archives, Gertrude's winged knights on the rooftop (VI)
 Lothric Castle, down the elevator to the twin princess (VII)
 Lothric, younger prince & Lorian, elder prince
 Firelink Shrine, cinders on thrones, shrine handmaiden (VIII)
 Lord of Cinder
+Painted World of Ariandel, captain's ashes
 Painting Depths, woman-tree, ladder (IX)
 Champion gravetender & gravetender greatwolf
 Sister Friede & father Ariandel (X)
