@@ -28,8 +28,8 @@ Road of Sacrifices, Farron coal near a black knight
 Crucifixion Woods, Great Swamp pyromancy tome, in the water between a tree and a giant crab
 Crucifixion Woods, Orbeck of Vinheim
 Crystal Sage
-Cleansing Chapel, Painted World of Ariandel
 Cathedral of the Deep, paladin's ashes
+Cleansing Chapel, Painted World of Ariandel
 Cathedral of the Deep, Deep braille divine tome from a mimic chest
 Cathedral of the Deep, big double blue doors to the cementary
 Cathedral of the Deep, Patches trick
@@ -38,14 +38,14 @@ Cleansing Chapel, Siegward's questline, armour in the well
 Deacons of the Deep
 Firelink Shrine, Anri and Horace
 Firelink Shrine, Patches trick
-Farron Keep, sage's coal, darkwraith
-Farron Keep, sage's scroll and golden scroll
 Farron Keep, dreamchaser's ashes
+Farron Keep, sage's scroll and golden scroll
+Farron Keep, sage's coal, darkwraith
 Farron Keep, stray demon
 Firelink Shrine, one scroll for the Orbeck of Vinheim
 Abyss Watchers
-Catacombs of Carthus, Anri's questline, x1
 Catacombs of Carthus, Carthus pyromancy tome, behind the illusory wall
+Catacombs of Carthus, Anri's questline, x1
 Catacombs of Carthus, grave warden's ashes
 Catacombs of Carthus, Anri's questline, x2
 High Lord Wolnir
