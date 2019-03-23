@@ -16,9 +16,9 @@ Undead Settlement, Yoel of Londor, questline (0-2-6-12-15)
 Firelink Shrine, Londor braille divine tome from Yuria of Londor
 Undead Settlement, Cornyx of the Great Swamp
 Undead Settlement, Irina of Carim
-Undead Settlement, mortician's ashes
 Undead Settlement, Siegward of Catarina, fire demon
 Undead Settlement, fire demon area, a pale tounge
+Undead Settlement, mortician's ashes
 Firelink Shrine, chitchat with Leonardt, key to the darkwraith cell
 Great rotten greatwood
 Firelink Shrine, Ludleth of Courland, transposing kiln
